@@ -1,0 +1,24 @@
+
+There followings should be repeated for both cameras. 
+Multiple people scenarios: 
+
+1. People sitting behind the desk and having a meeting with their laptops 
+2. two People moving close to eachother within the spaces, one person sitting
+3. 1 person  relaxing on their chairs, two people sitting notrmally
+4. People with stuff on. 
+5. Two people walking close to each other 
+6. Three people standing on varius distance from the camera (a) on the orners or under the camera) 
+7. Multiple people sitting on a chair, and then leaving the charins (important),
+8. people having varous clothing (jackets), nultiple people going out of FOV at the same time.
+9. 2 people standing and 1 person sitting
+
+----------------------------------------
+
+200 FRAMES: 
+
+One people scenarios:
+
+1. one person entering and leaving the space 
+2. One person sitting behind a desk with multiple hot points 
+3. One person sitting behind a desk with soldering iron on (200 degrees)
+
